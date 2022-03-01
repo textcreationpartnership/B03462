@@ -1,0 +1,208 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Good advice to the creditors of the bankers in general, and particularly to those concerned with Sir Robert Vyner, who have not yet subscribed to his proposals. / By some of his creditors that have already subscribed them.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B03462</idno>
+            <idno type="STC">Wing G1033</idno>
+            <idno type="STC">ESTC R177512</idno>
+            <idno type="EEBO-CITATION">51617644</idno>
+            <idno type="OCLC">ocm 51617644</idno>
+            <idno type="VID">175241</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B03462)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 175241)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2724:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Good advice to the creditors of the bankers in general, and particularly to those concerned with Sir Robert Vyner, who have not yet subscribed to his proposals. / By some of his creditors that have already subscribed them.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for S.L.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>anno 1681.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: Your friends, VV.B. R.T. I.C.</note>
+                  <note>Imperfect: staining with some loss of text.</note>
+                  <note>Reproduction of the original in the Columbia University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Viner, Robert, --  Sir, 1631-1688.</term>
+               <term>Debtor and creditor --  Great Britain --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-04</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-04</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:175241:1" rendition="simple:additions"/>
+            <pb facs="tcp:175241:1" rendition="simple:additions"/>
+            <pb facs="tcp:175241:2"/>
+            <pb facs="tcp:175241:2"/>
+            <pb facs="tcp:175241:3"/>
+            <pb facs="tcp:175241:3"/>
+            <p>
+               <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> TO THE CREDITORS OF THE BANKERS IN GENERAL, AND Particularly to thoſe concerned with Sir <hi>Robert Vyner,</hi> who have not yet Subſcribed to his late Propoſals.</p>
+            <p>By ſome of his CREDITORS that have already Subſcribed them.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>S. L.</hi> ANNO 1681.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:175241:4"/>
+            <pb n="1" facs="tcp:175241:4"/>
+            <head>Advice to Sir <hi>Robert Vyners</hi> Creditors, who have not yet Subſcribed his Propoſals—By thoſe who have done it.</head>
+            <p>UPON Sir <hi>Robert Vyners</hi> publiſhing his propoſals to us, for the aſſigning of Eighty Pounds of every Hundred Pounds principal Debt on the Ex<g ref="char:EOLhyphen"/>ciſe, and of paying the remaining Twenty Pounds, and all Intereſt due till payment thereof, out of his Eſtate, now ſetled on Truſtees: We thought it our great concern, moſt ſeriouſly to conſider all things, that might reaſo<g ref="char:EOLhyphen"/>nably induce us to a complyance (with an offer that ſeemed ſo fair) and theſe Rea<g ref="char:EOLhyphen"/>ſons chiefly occurring to our thoughts, did prevail with us to a chearful, and ſpeedy Subſcription, but conſidering, alſo that our own Act will not be ſufficient in this caſe to help us, except the reſt will do ſo to, we thought it abſolutely neceſſary to our ſelves, to lay before you thoſe Reaſons, that prevailed with us, to the end you may alſo be perſwaded to do the ſame your ſelves, and no longer delay it to your own hurt, as well as ours; the time for Signing, being nigh ſpent already.</p>
+            <p n="1">1. In the firſt place we conſidered, that the delaying our Subſcriptions, would be a great miſchief, by putting further off the raiſing the Money for us, by the Tru<g ref="char:EOLhyphen"/>ſtees, who cannot Act, till they ſee that the Creditors have ſubſcribed the propoſals, and that thoſe, who have ſubſcribed firſt, muſt have the firſt payment, or elſe, no orderly payments, for the eaſe of the Truſtees, and the Creditors, can be made; and that the neglect of doing it in time, might fruſtrate the offered ſatisfaction, which is too likely to be the fate of this thing, if not preſently prevented.</p>
+            <p n="2">2. We could find no reaſon, to expect any better offer whilſt Sir <hi>Robert Vyner</hi> lives, the firſt is uſually the beſt, and if he dies before this, he offers, be in all things finiſht; we have no confidence of better dealing from others that ſhall ſucceed him, and by his often illneſs, from very ſharp and acute Diſeaſes, though he be now pretty well recovered, none can reaſonably conclude him likely to be long lived, beſides many other Accidents, that the wiſeſt of men can neither foreſee, nor prevent.</p>
+            <p n="3">3. We conſidered alſo, the more generous Acts of thoſe great Numbers, who took his Aſſignments on the Exciſe for their whole Debt, and many of them for the Intereſt alſo; (out of a worthy conſideration, no doubt) as many of them have af<g ref="char:EOLhyphen"/>firmed, of the great oppreſſion he lay under, not acquired by his own fault, but by an unreſiſtable hand, and therefore, moſt kindly, and conſcientiouſly freed him from it, as much, as in them lay, and except they had ſo done, it would have been im<g ref="char:EOLhyphen"/>poſſible for Sir <hi>Robert</hi> to have made us ſuch an Offer, their Number that took Aſſign<g ref="char:EOLhyphen"/>ment, being about Seven Hundred, and thoſe that remain, not much Inferiour in Number — Therefore let not any think that our ſubſcribing only, will conclude us, and ſo ſerve their greedy Deſigns of gaining better Tearms; for we are promiſt, and do rely much upon it, that if you do not come in, and ſubſcribe, we ſhall be as free as you, and will not ſuffer you to have any Advantage whatſoever, but what we have a ſhare of, as is our due; for our Debts, are as good as yours, and we are as
+<pb n="2" facs="tcp:175241:5" rendition="simple:additions"/>deſirous to make them as good as you can do, by any violent acts, and upon this proviſo and promiſe, we have ſubſcribed, and do expect, that if thoſe few that have by commencing ſuits at Law, gained appearances, will not the next Term forbear their proſecutions, we ſhall be put into the ſame forwardneſs, and obtain Judg<g ref="char:EOLhyphen"/>ments as ſoon as they; and ſo be on even ground with them.</p>
+            <p n="4">4. We ſeriouſly conſidered his great loſſes, by bad debts, beſides the loſs of that great Trade he was in, his great charges for nigh Ten Years together, getting no<g ref="char:EOLhyphen"/>thing to bear them, paying great Sums of Money for Intereſt of Mony, to pay In<g ref="char:EOLhyphen"/>tereſt to his Creditors, long before he could receive it, where it was as due to him, as from him to them, alſo by his unſeaſonable diſpoſing of all profitable actions, and many other things too long to repeat, which he affirms, and we believe amounts unto above Fifty Thouſand Pounds, and thoſe that know his Eſtate very well, ſay, that what will remain to him, after this propoſal ſhall be made good, will be but little, and lyes out in ſuch a manner, that if recovered at all, muſt be got out of the Fire, for when his buſineſs was at the height, he had ſuch <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> that their Actions will find him work enough to retrieve as long as he lives, and his Execu<g ref="char:EOLhyphen"/>tors after him, whilſt his own time was taken up at <hi>Whitehall;</hi> the Lord Treaſu<g ref="char:EOLhyphen"/>rers, and other places, from home, in the manage of thoſe great concerns, and alſo in ſerving the publique Affairs of his Majeſtie, and this City: Therefore now he wiſhes only to have but a ſmall part of that Eſtate which he acquired other wayes, without a penny of that he got by banking, and it ought to be conſidered, that from the good Debts remaining, as its propoſed ſome part of our Money, muſt be raiſed, and that if you do not joyn with us in ſubſcribing, they will be in as much danger to be loſt, as the others are already, ſurely they will not grow better, but worſe every day.</p>
+            <p n="5">5. And we alſo conſidered his unwearied pains, and vaſt Expences, (a Sum) though he will not name (nor is it indeed fit to be mentioned) yet we know in part, and believe the reſt, that it was not a little one, to go through all Offices, and other things neceſſary, to attain that valid legal Security from His Majeſtie, and paſſing the Bill in the Houſe of Lords to confirm it, for which he asks none of us one penny, or the Abatement of one days Intereſt, in ſo many years; paid us at the higheſt Rate the Law alloweth, and there is much truth in it; if we ſay, we had all of us a very great Advantage till the ſtop, by his paying Intereſt for our Money, which we at at any time (if deſired) had, to ſerve any better Occaſion, ſo, that really we had full Intereſt for nothing, our Money being as ready, as though we had kept it at home in our Cheſts; which was ſo great, and general a benefit for many other Reaſons, as the not keeping, or truſting our Servants, <hi>&amp;c.</hi> that we now want it, and alſo do believe when Sir <hi>Robert</hi>'s <hi>Eſtate</hi> is better known, it will not be found conſiderably <hi>augmented</hi> by that Trade; and do confidently aver, that he has paid no leſs, then Two Hundred Thouſand Pounds for Intereſt, ſince the ſtop for Eight Years Intereſt, amounts to more then that Sum, and we believe but few have had leſs; although he hath not ſince the ſtop of the Exchequer receiv<g ref="char:EOLhyphen"/>ed One Hundred and Ten Thouſand Pounds; ſo, as its evident, he hath paid Nine<g ref="char:EOLhyphen"/>ty Thouſand Pounds more then he received for Intereſt; for a great part of which he paid Extraordinary Intereſt, that his Creditors might be ſupplyed, and it's in vain to ſay, we did not know Sir <hi>Robert</hi> lent it to the King, for we knew it as well as he, and he told it to all that asked him—And what other way could he, or any Man living, raiſe ſuch vaſt Sums of Intereſt as he hath done, it being computed by
+<pb n="3" facs="tcp:175241:5"/>thoſe that know it, that Sr. <hi>Robert</hi> hath paid divers Hundred Thouſand pounds for <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ntereſt of Money, and we know that thoſe that pretended lately to great credit, and able to pay Intereſt by Merchandizing only, are fallen to a very low ebb, and like to pay little or nothing at laſt.</p>
+            <p n="6">6. We alſo reflected on the low eſteem we had of this Debt, for which moſt of us would have taken all the principal by Aſſignments, on the Exciſe, if we could have had the Intereſt paid us, and its well known that the whole Debt, Principal and Intereſt, was by divers perſons ſold for Forty <hi>per Cent.,</hi> if not under, within theſe Three Months paſt, and this propoſe of paying Twenty <hi>per Cent.;</hi> and all Intereſt will amount to very near that Summe in Money, beſides the Eighty <hi>per Cent. per</hi> Aſſignments, ſo that the account of this Debt is this, that from that un<g ref="char:EOLhyphen"/>lucky ſtop of the Exchequer, every one will have for his Intereſt Money, Sixty <hi>per Cent,</hi> and of his principal Twenty, which is Eighty in good money, and Eigh<g ref="char:EOLhyphen"/>ty more by Aſſignments on a good real ſecurity which is One Hundred and Sixty Pounds in all, for every Hundred pound now remaining due, which cannot be cal<g ref="char:EOLhyphen"/>led a bad Debt, and are ſure, its that we never expected; this alſo convinced us and many of you too, that confeſs its a fair offer, and ſhews an honeſt intent, yet do not do your part to fix it, whilſt you may have it.</p>
+            <p n="7">7. The propoſal made us is a Real thing, its no Chimera, nor Fiction, but ſuch an Eſtate that hath preſent Purchaſers enough, and might be turn<g ref="char:EOLhyphen"/>ed into good Money by the next Term, if you will do your part in ſubſcri<g ref="char:EOLhyphen"/>bing ſpeedily, for this vacation is the moſt fit time, for the Truſtees to agree, and contract for the Sale of the Lands, and Houſes, prepare the Writings, and have nothing left to do at the Term, but to Seal the Deeds, recieve the Money, and Pay it to the Creditors, and all before the end of that Term, for although the pro<g ref="char:EOLhyphen"/>poſe mentions a Year from the ſubſcription, there will not need half that time to do it in, and we have no cauſe to fear Sr. <hi>Roberts</hi> Real Intention, having actually ſetled it already in the Truſtees, and his deſire of doing it doth the more appear, in parting with his Beloved Swakeleys, together with the reſt of his Lands and Houſes, and for the Truſtees they are known to all men of buſineſs, to be not only of the moſt worthy and able Citizens, but ſuch alſo as are as fit to be truſted, and are as often truſted, with as great concerns, as any in <hi>London,</hi> ſo without any ex<g ref="char:EOLhyphen"/>ception, men that want no ſuch imployments, but of kindneſs to Sr. <hi>Robert</hi> and his Creditors, are willing to undergoe ſo great a trouble, if they find the Credi<g ref="char:EOLhyphen"/>tors conſent in it, elſe not, ſo that we concieve nothing can poſſibly hinder the doing it, and quickly too, if your needleſs and unreaſonable delays do not do it, ſtand<g ref="char:EOLhyphen"/>ing, ſhall I ſhall I, and inquiring if the reſt have done it yet, and others ask if you have done it, and ſo time paſſes, and men dye, as daily experience ſhews, whilſt you delay; as though you had all a mind to be laſt in ſubſcribing, though firſt in recieving, when your reſolving and doing it, is abſolutely neceſſary to your advantage.</p>
+            <p>Wee alſo conſidered ſome Objections we met withall, one was that</p>
+            <p n="8">8. Some of you are intruſted for the Orphans of your dead Friends ſo are ſome of us, and yet do not doubt to Juſtifie our actings therein both to God and Man, having done it as cordially and carefully for them as if it were our own concern, and our all, and much better, then if in ſuch a caſe we ſhould looſe or hazard all, like ſome over cautious Executors, we have known in a like caſe, that have loſt the Or<g ref="char:EOLhyphen"/>phans eſtate, rather than do a prudent and neceſſary thing to ſave a part of it, and
+<pb n="4" facs="tcp:175241:6"/>moſt of thoſe Orphans (at leaſt the pooreſt of them) are uſually left to th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Rich and Charitable Relations, with the Parents hopes of great kindneſs <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> them, and thereby the Orphans dependance is ſuch, that will oblige them (at full age,) eaſily to confirm what their carefull Truſtees have acted for their good, and ſurely if an Orphan, when of full age, ſhould be ſo ungratefull as ſome fear, the High Court of Chancery will indempnify him, for doing any prudent act for the good of the Orphan. And to clear that matter beyond all doubt, the Right Honorable the Earl of <hi>Nottingham,</hi> Lord High Chancellor of <hi>England,</hi> hath made a decree in this very caſe, ſince the laſt Term, and hath thereby inabled a Truſtee for Or<g ref="char:EOLhyphen"/>phans, to ſubſcribe theſe propoſals made by Sir <hi>Robert Vyner,</hi> ſo that now we hope that block is totally removed, and that we ſhall never hear that ſcruple made any more —</p>
+            <p n="9">9. We did alſo ſeriouſly conſider another Objection we met with, that Sir <hi>Robert</hi> did not intend to pay the growing Intereſt, he recieves from the Exciſe to the Sub<g ref="char:EOLhyphen"/>ſcribers, but let it run on, till the Lands were ſold, and pay all that way, in which he hath ſatisfied us fully, having promiſt to pay it as uſually, and as faſt as it comes in, and alſo that he doth not deſire to have up the Creditors old Bonds, before they take Aſſignments for the Eighty pound, and new Bonds for the Twenty and all In<g ref="char:EOLhyphen"/>tereſt, which is not to be done, till the Truſtees act therein, and if they do not act your Subſcriptions hurt you not, but are void by the propoſal it ſelf.</p>
+            <p n="10">10. We have alſo conſidered, the common (and no doubt) ignorant Objection that his Majeſties grant may be taken away, and made void at his pleaſure we are ſatisfied to the contrary, by all that hath been ſaid by the moſt Learned of the Law and not only by what they have ſaid, but more by what they have done themſelves who with the firſt, took Aſſignments thereon, and for very great ſumms, which no doubt, did alſo incourage that great number of (about Fifteen Hundred) No<g ref="char:EOLhyphen"/>ble-men, and Gentlemen, Citizens, and perſons of all ranks; high and low, to take Aſſignments on the Exciſe, which hath made it much ſtronger and ſurer, then when it remained in ſo few hands, as the firſt lenders were, and if thoſe (which yet ſtand out) will joyn their Intereſt to it alſo, though their particular Debt were but Fifty pounds, or leſs, we doubt not to ſay ſuch a general complication of Intereſt, will make it formidable enough, to deterr the boldeſt of evil Adviſers, that may come hereafter, to procure another ſtop, and again, act over that wicked project. And all that know any thing, do know this, that his Majeſty has declared his diſlike of that former miſchievous advice, in ſuch a manner, that none can with Modeſty fear his falling into that Snare again, that wounded him ſo much before, and much worſe then it did his Subjects.</p>
+            <p n="11">11. And above all the reſt, that main Objection, which is either weakly or ma<g ref="char:EOLhyphen"/>litiouſly urged, that this ſettlement on the Exciſe, doth not bind his Majeſties Suc<g ref="char:EOLhyphen"/>ceſſours, as well as himſelf, although the Learned Council, do unanimouſly agree without diſpute, that the Kings of <hi>England</hi> their Heirs and Succeſſours, are bound by their acts under the great Seal of <hi>England,</hi> otherwiſe many Families, now con<g ref="char:EOLhyphen"/>ſiderable and great, would be in a ſad condition, many hundreds holding their lives, (and a multitude of all ſorts) their Eſtates, upon that Tenure only, and if this Allegation were true, his Majeſty might be in actual poſſeſſion, of the greateſt part of all the Lands in <hi>England,</hi> and thereby raiſe Millions of Money without any other helps, which hath been well demonſtrated and proved by that Worthy Law<g ref="char:EOLhyphen"/>yer, <hi>Thomas Turner</hi> Eſquire, in a Sheet publiſht a little before his Death, Intituled
+<pb n="5" facs="tcp:175241:6"/>Three Seaſonable Conſiderations, on his Majeſties gracious Letters Pattents <hi>&amp;c.</hi> 
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aper worth any mans Reading, that deſires to know what the Law ſpeaks, in <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>vour of this grant, and all other grants of the Crown, and hath been given out <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Sir <hi>Robert,</hi> at his late Shop to all his Creditors, that came or ſent for his Propo<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ls, and therein it is well obſerved, that many of thoſe grants upon ſuits, have <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>een held valid in Law, although they were procured and granted, without any <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aluable purchaſe of them, but only by the Kings meer Grace and Favour, where<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> in Sir <hi>Robert</hi>'s grant, Printed (by his Majeſties command in Council,) <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e King declares that he doth actually owe, and hath recieved of Sir <hi>Robert Vyner,</hi> the Summe of Four Hundred and Sixteen Thouſand Seven Hundred Twen<g ref="char:EOLhyphen"/>ty Four pounds, Thirteen ſhillings, for which he grants to him and his Aſſigns a perpetual yearly Intereſt, at Six Pounds <hi>per Centum,</hi> amounting to Twenty five Thouſand and Three pounds, Nine ſhillings and four pence by the Year, and a Covenant to make ſuch better and firmer grant for the ſame, as he ſhall reaſonably deſire, if any defect ſhall be found therein.</p>
+            <p n="12">12. And farther we obſerve the great Aſſurance that the Laws give to thoſe that are already the Aſſigns of the <hi>Goldſmiths,</hi> for ſeveral of them, finding their pay<g ref="char:EOLhyphen"/>ments at the Exciſe of late, worſe then formerly, have Arreſted, and brought their Actions at Law, againſt the Commiſſioners, and will without doubt, reco<g ref="char:EOLhyphen"/>ver their Money and Charges the next Term. And as His Majeſtie hath graciouſ<g ref="char:EOLhyphen"/>ly aſſured all Perſons, that they ſhall enjoy the Laws, and thereby their Properties, ſo its manifeſt, that he intends it, having done nothing to protect his Commiſſioners, or defeat the proſecution of the Laws in this caſe, and we are informed, that ſome, or all the Proſecutors have been offer'd their Intereſt money, if they would loſe their charges, which they have refuſed to do. And it ought not to be forgotten, that when a Bill was paſt in the Houſe of Peers, for the ſecuring the payment of this perpetual Intereſt, it was done, not only with the conſent, but all the furthe<g ref="char:EOLhyphen"/>rance too of His Majeſtie, who alſo recommended it to the Members of the Houſe of Commons, as a thing he greatly deſired, and no doubt, would have been then an Act, had not their Riſing been ſo near, as it then was; and ſurely no Parliament will refuſe to joyn with His Majeſtie, in ſo Juſt, and Charitable a thing, when they find its not the concern of Ten or Twelve private Men, but the Right of Ten Thouſand of <hi>Engliſh</hi> Men, Widows and Orphans, and that it's indeed the very Blood of many of them, whoſe Cry will be heard without all queſtion, and the reſt are many of them, Perſons of great Quality, Power and Intereſt, who will, be able more eaſily to help themſelves, and the whole concern, to that Right and Juſtice, which Parliaments do not uſe to deny to <hi>Engliſh</hi> Subjects, this we hope will convince all that are not wilfully blind, that it is a good and legal ſecurity to all that take it: Alſo the Right Honourable the Lords Commiſſioners of His Majeſties Treaſury, have given all perſons Aſſurance, that there is no intention of a ſtop, but that the Revenue falling ſhort of late, by ſeveral wayes, they are at preſent forc't to pay <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lower than before, but have now ordered more weekly Money to be paid to thoſe Aſſigned, and alſo to the Goldſmiths, and that very ſhortly, they will pay it more punctually, which a few days will ſatisfie you in, by their being paid another Quar<g ref="char:EOLhyphen"/>ters Intereſt, which is a clear Demonſtration, that there is no ſtop intended.</p>
+            <p>Theſe things being duly conſidered, what can hinder all Rational Perſons from ſubſcribing preſently, and loſeing no more Time to their own certain damage, un<g ref="char:EOLhyphen"/>leſs any man having any particular ill Will to Sir <hi>Roberts</hi> Perſon, and ſo from the
+<pb n="4" facs="tcp:175241:7"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="5" facs="tcp:175241:7"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="6" facs="tcp:175241:8"/>Exact Rules of a high Malice) do himſelf a hurt, that he may hurt him; <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> we can ſay nothing, but by all that is ſaid before, and our long knowledge of <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>haviour to us, and particularly of his care of our Satisfaction, we cannot adjudge him deſerving any ill uſage from his Creditors, but rather to pitty and free him, as we have done, in obedience to that moſt excellent Command, to do to others, as we would have others do to us, which we hope will be the Pattern and Rule you alſo will follow, and therein remain</p>
+            <closer>
+               <signed>Your Friends, <hi>VV. B. R. T. I. C.</hi>
+               </signed>
+            </closer>
+            <pb facs="tcp:175241:8"/>
+         </div>
+      </body>
+   </text>
+</TEI>
